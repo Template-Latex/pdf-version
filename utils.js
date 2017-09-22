@@ -95,7 +95,7 @@ function updateDownloadCounter(downloads, source) {
         case 'Template-Tesis':
             download_list_counter = [];
             break;
-        case 'Template-Tesis':
+        case 'Professional-CV':
             download_list_counter = [];
             break;
         default:
