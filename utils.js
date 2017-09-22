@@ -98,9 +98,6 @@ function updateDownloadCounter(downloads, source) {
         case 'Professional-CV':
             download_list_counter = [];
             break;
-        default:
-            download_list_counter = [];
-            break;
     }
     for (i = 0; i < download_list_counter.length; i++) {
         downloads += download_list_counter[i][0];
