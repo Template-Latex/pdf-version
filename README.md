@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Stats" src="icon.png" width="200px" height="200px" />
+  <img alt="pdf-version" src="icon.png" width="200px" height="200px" />
   <br /><br />
   PDF-Version</h1>
 <p align="center">Repositorio que almacena las versiones en pdf compiladas de los distintos sub-templates</p>

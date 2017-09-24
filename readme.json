@@ -3,7 +3,7 @@
         "NAME": "PDF-Version",
         "ICON": {
             "IMAGE": "icon.png",
-            "ALT": "Stats",
+            "ALT": "pdf-version",
             "WIDTH": 200,
             "HEIGHT": 200
         },
