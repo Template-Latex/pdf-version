@@ -3,16 +3,16 @@
   <br /><br />
   PDF-Version</h1>
 <p align="center">Repositorio que almacena las versiones en pdf compiladas de los distintos sub-templates</p>
-<div align="center"><a href="http://ppizarror.com"><img alt="@ppizarror" src="http://latex.ppizarror.com/res/badges/autor.svg" /></a>
-<a href="https://opensource.org/licenses/MIT/"><img alt="Licencia MIT" src="http://latex.ppizarror.com/res/badges/licenciamit.svg" /></a>
-<br><a href="https://github.com/Template-Latex/Template-Auxiliares/"><img alt="Template-Auxiliares" src="http://latex.ppizarror.com/res/badges/auxiliares.svg" /></a>
-<a href="https://github.com/Template-Latex/Template-Controles/"><img alt="Template-Controles" src="http://latex.ppizarror.com/res/badges/controles.svg" /></a>
-<a href="https://github.com/Template-Latex/Template-Informe/"><img alt="Template-Informe" src="http://latex.ppizarror.com/res/badges/informe.svg" /></a>
-<a href="https://github.com/Template-Latex/Professional-CV/"><img alt="Professional-CV" src="http://latex.ppizarror.com/res/badges/professionalcv.svg" /></a>
+<div align="center"><a href="https://ppizarror.com"><img alt="@ppizarror" src="https://latex.ppizarror.com/res/badges/autor.svg" /></a>
+<a href="https://opensource.org/licenses/MIT/"><img alt="Licencia MIT" src="https://latex.ppizarror.com/res/badges/licenciamit.svg" /></a>
+<br><a href="https://github.com/Template-Latex/Template-Auxiliares/"><img alt="Template-Auxiliares" src="https://latex.ppizarror.com/res/badges/auxiliares.svg" /></a>
+<a href="https://github.com/Template-Latex/Template-Controles/"><img alt="Template-Controles" src="https://latex.ppizarror.com/res/badges/controles.svg" /></a>
+<a href="https://github.com/Template-Latex/Template-Informe/"><img alt="Template-Informe" src="https://latex.ppizarror.com/res/badges/informe.svg" /></a>
+<a href="https://github.com/Template-Latex/Professional-CV/"><img alt="Professional-CV" src="https://latex.ppizarror.com/res/badges/professionalcv.svg" /></a>
 </div><br />
 
 ## Licencia
 Este proyecto está licenciado bajo la licencia MIT [https://opensource.org/licenses/MIT]
 
 ## Autor
-<a href="http://ppizarror.com" title="ppizarror">Pablo Pizarro R.</a> | 2017 - 2018
+<a href="https://ppizarror.com" title="ppizarror">Pablo Pizarro R.</a> | 2017 - 2018
